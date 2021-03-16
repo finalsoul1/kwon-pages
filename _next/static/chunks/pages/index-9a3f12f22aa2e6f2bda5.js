@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[9],{"/EDR":function(n,_,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return i("QeBL")}])},QeBL:function(n,_,i){"use strict";i.r(_);var t=i("nKUr"),e=(i("q1tI"),i("izhR"));_.default=function(){return Object(t.jsx)(e.a,{children:"\uba54\uc778\uc785\ub2c8\ub2e4."})}}},[["/EDR",0,1,2]]]);
